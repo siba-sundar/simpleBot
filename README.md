@@ -10,7 +10,7 @@ A simple healthcare chatbot built using Gemini and Streamlit. This chatbot assis
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/healthcare-chatbot.git](https://github.com/siba-sundar/simpleBot/edit/main/README.md
+   git clone https://github.com/siba-sundar/simpleBot
    
 Navigate to the project directory:
 ```bash
